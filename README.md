@@ -26,5 +26,5 @@ The material consist of
 * a folder containing all [**Plots**](https://github.com/magdalenammair/Brehm-et-al-2023/tree/master/Plots) produced as an output of the code provided
 * a folder in which analysis [**Results**](https://github.com/magdalenammair/Brehm-et-al-2023/tree/master/Results) are stored
 * a file giving [**information about software and package versions**](https://github.com/magdalenammair/Brehm-et-al-2023/tree/master/sessionInfo.txt) used for the published analysis
-* the [**supplementary figures and tables**](https://github.com/magdalenammair/Holzinger-et-al-2022/tree/master/Brehm_et_al_Supplementary_Figures_Tables.pdf) as published with the article
+* the [**supplementary figures and tables**](https://github.com/magdalenammair/Brehm-et-al-2023/tree/master/Brehm_et_al_Supplementary_Figures_Tables.pdf) as published with the article
 ---
