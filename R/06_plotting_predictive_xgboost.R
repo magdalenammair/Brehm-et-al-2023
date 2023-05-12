@@ -9,7 +9,7 @@ pred_importance = res$grouped_importances
 importance = res$importance
 
 ## Gain plot--------
-svglite("Plots/sized_230419/group_gain_best_model.svg", height = 6, 
+svglite("Plots/group_gain_best_model.svg", height = 6, 
         width = 9, pointsize = 14)
 
 
@@ -32,7 +32,7 @@ dev.off()
 ## Cover plot--------
 pred_importance2 = pred_importance[order(pred_importance$cover, decreasing = T),]
 
-svglite("Plots/sized_230419/FigureS8_Cover.svg", height = 6, 
+svglite("Plots/FigureS8_Cover.svg", height = 6, 
         width = 9, pointsize = 14)
 
 
@@ -51,7 +51,7 @@ dev.off()
 ## Frequency plot--------
 pred_importance3 = pred_importance[order(pred_importance$frequency, decreasing = T),]
 
-svglite("Plots/sized_230419/FigureS7_Frequency.svg", height = 6, 
+svglite("Plots/FigureS7_Frequency.svg", height = 6, 
         width = 9, pointsize = 14)
 
 par(las = 2, bty = "l", mar = c(9,5,1,1), xpd = TRUE, lwd = 3)
@@ -69,7 +69,7 @@ dev.off()
 
 ## Single feature importances-----
 # gain
-svglite("Plots/sized_230419/FigureS6_single_gain.svg", height = 9, 
+svglite("Plots/FigureS6_single_gain.svg", height = 9, 
         width = 9, pointsize = 14)
 xgb.plot.importance(importance_matrix = importance)
 dev.off()
