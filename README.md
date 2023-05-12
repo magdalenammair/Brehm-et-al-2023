@@ -20,7 +20,7 @@ In recent years, the number of publications on nano- and microplastic particles 
   
 The material consist of
 
-* an [**R project file**](https://github.com/magdalenammair/Holzinger-et-al-2022/tree/master/Brehm-et-al-2023.Rproj)
+* an [**R project file**](https://github.com/magdalenammair/Brehm-et-al-2023/tree/master/Brehm-et-al-2023.Rproj)
 * a folder containing all raw, cleaned and prepared [**Data**](https://github.com/magdalenammair/Brehm-et-al-2023/tree/master/Data)
 * a folder containing all [**R**](https://github.com/magdalenammair/Brehm-et-al-2023/tree/master/R) code used for data preparation, statistical analysis, training and tuning of boosted regression trees and plotting
 * a folder containing all [**Plots**](https://github.com/magdalenammair/Brehm-et-al-2023/tree/master/Plots) produced as an output of the code provided
