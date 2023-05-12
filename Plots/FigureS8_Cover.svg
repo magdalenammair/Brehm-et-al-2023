@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='648.00pt' height='432.00pt' viewBox='0 0 648.00 432.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2NDguMDB8MC4wMHw0MzIuMDA='>
+    <rect x='0.00' y='0.00' width='648.00' height='432.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2NDguMDB8MC4wMHw0MzIuMDA=)'>
+<rect x='104.27' y='31.13' width='20.27' height='249.67' style='stroke-width: 2.25; stroke: #8FAADC; fill: #A9D18E;' />
+<rect x='128.59' y='87.14' width='20.27' height='193.66' style='stroke-width: 2.25; stroke: #8FAADC; fill: #A9D18E;' />
+<rect x='152.91' y='147.67' width='20.27' height='133.13' style='stroke-width: 2.25; stroke: #8FAADC; fill: #8FAADC;' />
+<rect x='177.23' y='161.45' width='20.27' height='119.35' style='stroke-width: 2.25; stroke: #FFD966; fill: #A9D18E;' />
+<rect x='201.55' y='166.89' width='20.27' height='113.91' style='stroke-width: 2.25; stroke: #8FAADC; fill: #8FAADC;' />
+<rect x='225.87' y='190.46' width='20.27' height='90.34' style='stroke-width: 2.25; stroke: #A9D18E; fill: #A9D18E;' />
+<rect x='250.19' y='203.90' width='20.27' height='76.90' style='stroke-width: 2.25; stroke: #8FAADC; fill: #8FAADC;' />
+<rect x='274.51' y='204.95' width='20.27' height='75.85' style='stroke-width: 2.25; stroke: #8FAADC; fill: #8FAADC;' />
+<rect x='298.83' y='206.79' width='20.27' height='74.01' style='stroke-width: 2.25; stroke: #8FAADC; fill: #8FAADC;' />
+<rect x='323.15' y='234.34' width='20.27' height='46.46' style='stroke-width: 2.25; stroke: #8FAADC; fill: #8FAADC;' />
+<rect x='347.47' y='239.81' width='20.27' height='40.99' style='stroke-width: 2.25; stroke: #FFD966; fill: #FFD966;' />
+<rect x='371.79' y='242.72' width='20.27' height='38.08' style='stroke-width: 2.25; stroke: #8FAADC; fill: #8FAADC;' />
+<rect x='396.11' y='263.70' width='20.27' height='17.10' style='stroke-width: 2.25; stroke: #8FAADC; fill: #8FAADC;' />
+<rect x='420.43' y='266.09' width='20.27' height='14.71' style='stroke-width: 2.25; stroke: #FFD966; fill: #A9D18E;' />
+<rect x='444.75' y='268.82' width='20.27' height='11.98' style='stroke-width: 2.25; stroke: #8FAADC; fill: #8FAADC;' />
+<rect x='469.07' y='274.35' width='20.27' height='6.45' style='stroke-width: 2.25; stroke: #8FAADC; fill: #8FAADC;' />
+<rect x='493.39' y='275.52' width='20.27' height='5.28' style='stroke-width: 2.25; stroke: #8FAADC; fill: #8FAADC;' />
+<rect x='517.71' y='275.72' width='20.27' height='5.08' style='stroke-width: 2.25; stroke: #8FAADC; fill: #8FAADC;' />
+<rect x='542.03' y='277.62' width='20.27' height='3.18' style='stroke-width: 2.25; stroke: #FFD966; fill: #FFD966;' />
+<rect x='566.35' y='278.51' width='20.27' height='2.29' style='stroke-width: 2.25; stroke: #8FAADC; fill: #8FAADC;' />
+<rect x='590.67' y='279.20' width='20.27' height='1.60' style='stroke-width: 2.25; stroke: #8FAADC; fill: #8FAADC;' />
+<text transform='translate(30.24,148.80) rotate(-90)' text-anchor='middle' style='font-size: 14.00px; font-family: "Arial";' textLength='171.94px' lengthAdjust='spacingAndGlyphs'>Variable importance (cover)</text>
+<line x1='84.00' y1='280.80' x2='84.00' y2='16.80' style='stroke-width: 0.75;' />
+<line x1='84.00' y1='280.80' x2='75.60' y2='280.80' style='stroke-width: 0.75;' />
+<line x1='84.00' y1='214.80' x2='75.60' y2='214.80' style='stroke-width: 0.75;' />
+<line x1='84.00' y1='148.80' x2='75.60' y2='148.80' style='stroke-width: 0.75;' />
+<line x1='84.00' y1='82.80' x2='75.60' y2='82.80' style='stroke-width: 0.75;' />
+<line x1='84.00' y1='16.80' x2='75.60' y2='16.80' style='stroke-width: 0.75;' />
+<text x='67.20' y='285.82' text-anchor='end' style='font-size: 14.00px; font-family: "Arial";' textLength='27.24px' lengthAdjust='spacingAndGlyphs'>0.00</text>
+<text x='67.20' y='219.82' text-anchor='end' style='font-size: 14.00px; font-family: "Arial";' textLength='27.24px' lengthAdjust='spacingAndGlyphs'>0.05</text>
+<text x='67.20' y='153.82' text-anchor='end' style='font-size: 14.00px; font-family: "Arial";' textLength='27.24px' lengthAdjust='spacingAndGlyphs'>0.10</text>
+<text x='67.20' y='87.82' text-anchor='end' style='font-size: 14.00px; font-family: "Arial";' textLength='27.24px' lengthAdjust='spacingAndGlyphs'>0.15</text>
+<text x='67.20' y='21.82' text-anchor='end' style='font-size: 14.00px; font-family: "Arial";' textLength='27.24px' lengthAdjust='spacingAndGlyphs'>0.20</text>
+<text transform='translate(113.97,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='103.20px' lengthAdjust='spacingAndGlyphs'>Concentration mg/ml</text>
+<text transform='translate(138.29,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='129.32px' lengthAdjust='spacingAndGlyphs'>Concentration particles/ml</text>
+<text transform='translate(162.61,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='95.75px' lengthAdjust='spacingAndGlyphs'>Density (buoyancy)</text>
+<text transform='translate(186.93,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='64.03px' lengthAdjust='spacingAndGlyphs'>Temperature</text>
+<text transform='translate(211.25,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='47.86px' lengthAdjust='spacingAndGlyphs'>NMP size</text>
+<text transform='translate(235.57,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='90.78px' lengthAdjust='spacingAndGlyphs'>Exposure duration</text>
+<text transform='translate(259.89,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='111.91px' lengthAdjust='spacingAndGlyphs'>NMP modification type</text>
+<text transform='translate(284.21,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='123.72px' lengthAdjust='spacingAndGlyphs'>NMP modification yes/no</text>
+<text transform='translate(308.53,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='65.28px' lengthAdjust='spacingAndGlyphs'>Polymer type</text>
+<text transform='translate(332.85,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='119.35px' lengthAdjust='spacingAndGlyphs'>Uncontrolled SM (biotic)</text>
+<text transform='translate(357.17,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='19.90px' lengthAdjust='spacingAndGlyphs'>Age</text>
+<text transform='translate(381.49,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='44.13px' lengthAdjust='spacingAndGlyphs'>MP color</text>
+<text transform='translate(405.81,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='148.61px' lengthAdjust='spacingAndGlyphs'>Type of DOC during exposure</text>
+<text transform='translate(430.13,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='25.50px' lengthAdjust='spacingAndGlyphs'>Food</text>
+<text transform='translate(454.45,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='164.12px' lengthAdjust='spacingAndGlyphs'>Uncontrolled SM (UV weathered)</text>
+<text transform='translate(478.77,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='67.15px' lengthAdjust='spacingAndGlyphs'>Fluorescence</text>
+<text transform='translate(503.09,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='50.99px' lengthAdjust='spacingAndGlyphs'>Surfactant</text>
+<text transform='translate(527.41,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='58.44px' lengthAdjust='spacingAndGlyphs'>NMP shape</text>
+<text transform='translate(551.73,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='39.79px' lengthAdjust='spacingAndGlyphs'>Species</text>
+<text transform='translate(576.05,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='75.86px' lengthAdjust='spacingAndGlyphs'>Surface charge</text>
+<text transform='translate(600.37,295.89) rotate(-45)' text-anchor='end' style='font-size: 11.20px; font-family: "Arial";' textLength='88.28px' lengthAdjust='spacingAndGlyphs'>NMP color yes/no</text>
+</g>
+</svg>
