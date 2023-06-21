@@ -2,13 +2,10 @@
 
 
 ---
-Supplementary Data for the Article "The complexity of micro- and nanoplastic research in the genus *Daphnia* – A systematic review of study variability and meta-analysis of immobilization rates"
-
----
 
 This repository provides all data and R code for 
   
-**Brehm, J., Ritschar, S., Laforsch, C. and Mair, M.M. (2023). The complexity of micro- and nanoplastic research in the genus *Daphnia* – A systematic review of study variability and meta-analysis of immobilization rates.** 
+**Brehm, J., Ritschar, S., Laforsch, C. and Mair, M.M. (2023). The complexity of micro- and nanoplastic research in the genus *Daphnia* – A systematic review of study variability and a meta-analysis of immobilization rates. *Journal of Hazardous Materials* 458: 131839. ([https://doi.org/10.1016/j.jhazmat.2023.131839](https://doi.org/10.1016/j.jhazmat.2023.131839))** 
     
       
 *Abstract*  
@@ -28,3 +25,5 @@ The material consist of
 * a file giving [**information about software and package versions**](https://github.com/magdalenammair/Brehm-et-al-2023/tree/master/sessionInfo.txt) used for the published analysis
 * the [**supplementary figures and tables**](https://github.com/magdalenammair/Brehm-et-al-2023/tree/master/Brehm_et_al_Supplementary_Figures_Tables.pdf) as published with the article
 ---
+
+This study was funded by the Deutsche Forschungsgemeinschaft (DFG; German Research Foundation) – Project Number 391977956-SFB 1357.
